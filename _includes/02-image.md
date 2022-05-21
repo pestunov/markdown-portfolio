@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![dizzys friend](me.jpg "it's my favorite game")
